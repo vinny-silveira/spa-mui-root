@@ -6,7 +6,7 @@ This project demonstrates how to use the [MUI](https://mui.com/) lib in [single-
 
 ## Getting started
 
-:exclamation: Before this, clone and follow steps of [app repo available here](#)
+:exclamation: Before this, clone and follow steps of [app repo available here](https://github.com/vinny-silveira/spa-mui-app)
 
 1. Clone this repo;
 2. In the root folder, run `pnpm install`;
